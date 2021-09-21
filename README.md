@@ -8,3 +8,6 @@
 
 已完成设施：SEU整体位置构图、李文正图书馆、桃园操场(框架)、桃园篮球场、钢菊体育场(框架)
 
+<div align=center>
+<img src="https://github.com/Luciferbobo/Minecraft_SEU/blob/main/Fig/Show%20(1).jpg" width="405" height="240"> 
+</div>
